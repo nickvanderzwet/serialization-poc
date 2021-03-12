@@ -27,7 +27,7 @@ class B
     /**
      * @var string
      *
-     * @Groups({"b:read", "b:write", "a:read", "a:write"})
+     * @Groups({"b:read", "b:write"})
      */
     private $fieldB;
 
